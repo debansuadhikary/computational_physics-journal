@@ -1,2 +1,11 @@
 # computational_physics-journal
-The computational physics coursework that I am learning in my college has been shared here. The purpose of doing so is to create a series of reference notes which can be accessed by anyone for understanding the basics more clearly. 
+
+This repository contains a structured record of my undergraduate physics coursework, foundational numerical implementations, and computational research replications. The primary objective is to bridge rigorous theoretical physics with high-performance computational modeling.
+
+## Core Focus Areas
+
+*   **Astrophysics:** Hamiltonian mechanics, chaotic N-body systems, and geometric/symplectic integration techniques.
+*   **Quantum Foundations:** Time-dependent wavepacket dynamics, PDE solvers (Crank-Nicolson, Split-Operator Fourier), and unitary evolution verification.
+*   **Plasma Physics:** Kinetic theory, self-consistent field modeling, and 1D electrostatic Particle-in-Cell (PIC) simulations.
+
+---
