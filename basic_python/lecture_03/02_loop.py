@@ -1,4 +1,4 @@
-# using the loop function but we need to take the number of iterations allowed from the user, taking into considerations that the user might give the most generalised number from (-infinity:infinity)
+# using the loop function, we need to take the number of iterations allowed from the user, taking into considerations that the user might give the most generalised number from (-infinity:infinity)
 
 # while True:
 #     n = int(input("What is n? "))
