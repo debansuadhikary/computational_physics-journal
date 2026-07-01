@@ -19,7 +19,7 @@ while i < 3:
 for _ in range(3):
     print("hoof")
 
-# for loop is best suited when we know the number of iterantions that are going to be performed 
+# for loop is best suited when we know the number of iterations that are going to be performed 
 # the number given in range will be specified as the limit of the repitation frequency as the loop does not exceeds the given limit
 
 # we can even loop the task by multiplying it to the number of itterations that we want
